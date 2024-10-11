@@ -1,0 +1,65 @@
+h1 {
+    color:blue;
+    font-weight: bold; 
+    text-align: center;
+}
+
+table caption {
+    color:darkgoldenrod;
+    font-size: 25px;
+} 
+
+#Capçalera {
+    width: 100px;
+    background-color:chartreuse;
+    text-align: center;
+    font-weight: bold;
+}
+
+table td{
+    width: 100px;
+}
+
+table th, td {
+    border: 1px solid;  
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+}
+
+.LMSGI {
+    background-color:  blueviolet;
+}
+
+.BD {
+    background-color: aquamarine;
+}
+.IPOI {
+    background-color: aqua;
+}
+
+.BD {
+    background-color:orange;
+}
+
+.TUT {
+    background-color: green;
+}
+
+.DIW {
+    background-color:darkcyan;
+}
+
+.AN {
+    background-color: brown;
+}
+
+.SI {
+    background-color: blueviolet;
+}
+
+.PED {
+    background-color:khaki;
+}
